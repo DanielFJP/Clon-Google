@@ -131,19 +131,19 @@ main img{
         font-weight: 700;
 }
 
-.googlem img{
+.pinterest img{
 
     width: 46px;
     height: 46px;
 }
 
-.facebook img {
+.cajero img {
 
     width: 54px;
     height: 54px;
 }
 
-.facebook{
+.cajero{
     position: relative;
     bottom: 5px;
 }
